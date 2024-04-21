@@ -5,4 +5,4 @@
 
 Create a bot in godfather bot of telegram and then copy the api key the godfather provided to the main.py file line 6, in token var.
 
-To scrape a link use: ```/scrap URL ``` in the bot.
+To scrape a link use: ```/scrape URL ``` in the bot.
